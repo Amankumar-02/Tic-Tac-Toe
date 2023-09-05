@@ -1,0 +1,22 @@
+@media(max-width:500px){
+    .panel{
+        width: 90%;
+        height: 45%;
+    }
+    .tab2 .top h2,
+    .bottom h2{
+        font-size: 18px !important;
+    }
+    .tab2 .bottom{
+        margin-top: 1rem;
+    }
+    .header{
+        height: 10%;
+        width: 100%;
+        background-color: blue;
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        padding-left: 1rem;
+    }
+}
